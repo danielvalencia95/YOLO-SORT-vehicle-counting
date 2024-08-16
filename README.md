@@ -12,8 +12,8 @@ All the code was developed in python, for an adequate use of the code you need t
 
 # Options
 For each option you must to download the repository for YOLOv5
-*Trainning*
+# # Trainning
 For trainning you must to download the datasets and to execute TrainYOLO.py 
 
-*Vehicle counting and tracking*
+# # Vehicle counting and tracking*
 For vehicle counting and tracking you must to download the videos, yolov5l_VC.pt and to execute YOLO_SORT_VehicleCounting.py
