@@ -8,7 +8,7 @@ All the code was developed in python, for an adequate use of the code you need t
 - The COOCO-Vehicle dataset used for General Trainning Phase is avalaible in https://drive.google.com/drive/folders/1HQtGHGM_pmWtyuisVHNnhINs2J-ZZ-a7?usp=sharing
 - The Traffic Flow Popayan dataset used for Specific Trainning Phase is avalaible in https://drive.google.com/drive/folders/1HcViJ40qwblKnWkp3_WAHby_vUxxEUB7?usp=sharing
 - The YOLOv5-L obtained after the general and specific trainnin - yolov5l_VC.pt is avalaible in https://drive.google.com/file/d/1-RoOpjif7U2iAIR1aTVfLJmgp7SzWM8D/view?usp=sharing
-- TrainYOLO.py and YOLO_SORT_VehicleCounting.py area avalaible in this repository.
+- TrainYOLO.py and YOLO_SORT_VehicleCounting.py are avalaible in this repository.
 
 # Options
 For each option you must to download the repository for YOLOv5
